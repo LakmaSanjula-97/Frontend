@@ -1,0 +1,92 @@
+.topicviewNotes {
+  margin-top: 20pt;
+  font-family: Merriweather;
+  font-style: italic;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  margin-bottom: 0%;
+  text-align: center;
+  /* background-color: rgb(0, 0, 0); */
+  width: fit-content;
+  margin-left: 0%;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.imageBoxOffer {
+  width: 200px;
+  height: 150px;
+}
+
+.paraTerms {
+  font-family: Merriweather;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 9pt;
+  color: #dc143c;
+}
+
+.offerNamefont {
+  font-family: Marmelad;
+  font-weight: bold;
+  color: black;
+}
+
+.offerDetails {
+  font-family: Marmelad;
+  font-weight: normal;
+  color: black;
+  text-align: left;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+.deleteButton {
+  width: 140px;
+  height: 40px;
+  background: #ffffffdf;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 93px;
+  font-family: Share;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  text-align: center;
+  /* color: #ffffff; */
+  font-size: 15pt;
+  margin-top: 25%;
+  margin-left: 25%;
+  margin-bottom: 25%;
+}
+
+.deleteButton:hover {
+  background: #341e71;
+  color: #ffffff;
+}
+
+.searchButton {
+  width: 190px;
+  height: 7vh;
+  margin-top: 1rem;
+  margin-left: 60rem;
+  background-color: darkcyan;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 93px;
+  font-family: Share;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+  text-align: center;
+  border-width: 0pt;
+  color: #ffffff;
+}
+
+.searchButton:hover {
+  background: #1e7158;
+  color: #ffffff;
+}

@@ -1,0 +1,18 @@
+.userRow {
+  padding-top: 2rem;
+}
+
+.userTopic {
+  font-family: Poly;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 114px;
+  padding-top: 3rem;
+}
+
+.rowHover:hover {
+  background: #f2e6ff;
+  color: black;
+  /*background: #341E71;*/
+}

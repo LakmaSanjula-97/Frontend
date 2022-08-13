@@ -1,0 +1,31 @@
+.researchBlock {
+  /* background: url(../images/research.png) no-repeat center; */
+  background-size: fill;
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+  background-size: 100px 100px;
+}
+
+.workshopBlock {
+  /* background: url(../images/workshop.png) no-repeat center; */
+  background-size: fill;
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+  background-size: 100px 100px;
+}
+
+.atendeeBlock {
+  /* background: url(../images/atendee.png) no-repeat center; */
+  background-size: fill;
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+  background-size: 100px 100px;
+}
+.cardCss {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}

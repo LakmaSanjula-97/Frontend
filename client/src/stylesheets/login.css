@@ -1,0 +1,87 @@
+.topic {
+  font-family: Poly;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  line-height: 114px;
+  padding-top: 3rem;
+}
+
+.subTopic {
+  font-family: Poly;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.login {
+  font-family: Poly;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 48px;
+  line-height: 50px;
+  text-align: right;
+  padding-top: 10rem;
+  letter-spacing: 3px;
+  margin-top: -580px;
+}
+
+.input_field {
+  width: 60vh;
+  height: 7vh;
+  margin-top: 2rem;
+  margin-left: 12rem;
+  top: 502px;
+  background: #ededed;
+  box-shadow: inset 4px 4px 4px 4px rgba(97, 97, 97, 0.25);
+  border-radius: 40px;
+  padding-left: 3rem;
+}
+
+.input_field:hover {
+  background: rgba(127, 123, 144, 0.2);
+  box-shadow: inset 4px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 60px;
+}
+
+.mailIcon {
+  width: 60vh;
+}
+
+.loginbutton {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 93px;
+  width: 175px;
+  height: 55px;
+  margin-top: 8vh;
+  margin-left: 13vh;
+  align-self: center;
+  text-align: center;
+  border-width: 0pt;
+  background-color: #ffffffec;
+  border: 2px solid black;
+}
+
+.btnTxt {
+  font-family: Share;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.loginbutton:hover {
+  background: #5214fde0;
+  color: #ffffff;
+}
+
+.imgDiv {
+  height: 50vh;
+}
+
+.logimage {
+  height: 600px;
+  width: 700px;
+  margin-left: 50px;
+  margin-top: 10px;
+
+}

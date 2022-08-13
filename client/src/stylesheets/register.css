@@ -1,0 +1,247 @@
+.topic {
+  font-family: Poly;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  line-height: 114px;
+  padding-top: 0pt;
+}
+
+.subTopic {
+  font-family: Poly;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 20px;
+}
+
+.register {
+  font-family: Poly;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 57px;
+  text-align: right;
+  padding-top: 7rem;
+}
+
+.instructions {
+  font-family: Poly;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: right;
+}
+
+.inputfield {
+  width: 60vh;
+  height: 7vh;
+  margin-top: 1rem;
+  margin-left: 10rem;
+  top: 502px;
+  background: #ededed;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 60px;
+  padding-left: 2rem;
+  font-family: Share;
+  font-style: normal;
+  font-weight: normal;
+  /* font-size: 25px; */
+  line-height: 41px;
+  border-width: 0pt;
+  /* identical to box height */
+  text-align: left;
+  color: #2b2b2b;
+}
+
+.inputfield:hover {
+  background: rgba(185, 172, 238, 0.63);
+  color: #2b2b2b;
+}
+
+.mailIcon {
+  position: absolute;
+  left: 8.33%;
+  right: 8.33%;
+  top: 8.33%;
+  bottom: 8.33%;
+}
+
+.registerButton {
+  width: 150px;
+  height: 40px;
+  margin-top: 4vh;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 93px;
+  font-family: Share;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+  text-align: center;
+  border-width: 0pt;
+}
+
+.registerButton:hover {
+  background: #341e71;
+  color: #ffffff;
+}
+
+.loginbtn {
+  width: 150px;
+  height: 40px;
+  margin-top: 4vh;
+  font-family: Share;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  /* identical to box height */
+  text-align: center;
+  border-width: 0pt;
+}
+
+.loginbtn:hover {
+  color: #341e71;
+}
+
+.imagebackground {
+  width: 600px;
+  height: 395px;
+}
+
+.searchbutton {
+  width: 190px;
+  height: 7vh;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 93px;
+  font-family: Share;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+  text-align: center;
+  border-width: 0pt;
+}
+
+.searchbutton:hover {
+  background: #341e71;
+  color: #ffffff;
+}
+
+.inputfieldUser {
+  width: 40vh;
+  height: 7vh;
+  margin-top: 1rem;
+  margin-left: 1rem;
+
+  top: 502px;
+  background: #ededed;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 60px;
+  padding-left: 2rem;
+  font-family: Share;
+  font-style: normal;
+  font-weight: normal;
+  /* font-size: 25px; */
+  line-height: 41px;
+  border-width: 0pt;
+  /* identical to box height */
+  text-align: left;
+  color: #2b2b2b;
+}
+
+.inputfieldUser:hover {
+  background: rgba(185, 172, 238, 0.63);
+  color: #2b2b2b;
+}
+
+.radio {
+  float: left;
+  margin-left: 8rem;
+  margin-top: 2rem;
+  padding-right: 10px;
+}
+
+.fontPara {
+  font-family: Share;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 15pt;
+  color: rgb(0, 0, 0);
+  margin-top: 1rem;
+  padding-left: 2rem;
+  margin-left: 10rem;
+}
+
+.inputTextBox {
+  width: 60vh;
+  height: 30vh;
+  margin-top: 1rem;
+  margin-left: 10rem;
+  top: 502px;
+  background: #ededed;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding-left: 2rem;
+  font-family: Share;
+  font-style: normal;
+  font-weight: normal;
+  /* font-size: 25px; */
+  line-height: 41px;
+  /* identical to box height */
+  text-align: left;
+  color: #2b2b2b;
+}
+
+.saveButton {
+  width: 150px;
+  height: 40px;
+  margin-top: 4vh;
+  background: darkcyan;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 93px;
+  font-family: Share;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+  text-align: center;
+  border-width: 0pt;
+  color: #ffffff;
+}
+
+.saveButton:hover {
+  background: #1e7158;
+  color: #ffffff;
+}
+
+.addbtn {
+  width: 190px;
+  height: 7vh;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 93px;
+  font-family: Share;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+  text-align: center;
+  border-width: 0pt;
+}
+
+.addbtn:hover {
+  background: #341e71;
+  color: #ffffff;
+}
